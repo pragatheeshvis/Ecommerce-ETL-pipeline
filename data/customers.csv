@@ -1,0 +1,24 @@
+customer_id,first_name,last_name,email,phone,city,state,country,registration_date
+C001,Alice,Johnson,alice.johnson@email.com,555-0101,New York,NY,USA,2024-01-15
+C002,Bob,Smith,bob.smith@email.com,555-0102,Los Angeles,CA,USA,2024-02-20
+C003,Carol,Williams,carol.williams@email.com,555-0103,Chicago,IL,USA,2024-03-10
+C004,David,Brown,david.brown@email.com,555-0104,Houston,TX,USA,2024-01-25
+C005,Eve,Davis,eve.davis@email.com,555-0105,Phoenix,AZ,USA,2024-04-05
+C006,Frank,Miller,frank.miller@email.com,555-0106,Philadelphia,PA,USA,2024-05-12
+C007,Grace,Wilson,grace.wilson@email.com,555-0107,San Antonio,TX,USA,2024-02-28
+C008,Henry,Moore,henry.moore@email.com,555-0108,San Diego,CA,USA,2024-06-01
+C009,Irene,Taylor,irene.taylor@email.com,555-0109,Dallas,TX,USA,2024-03-18
+C010,Jack,Anderson,jack.anderson@email.com,555-0110,San Jose,CA,USA,2024-07-22
+C011,Karen,Thomas,karen.thomas@email.com,555-0111,Austin,TX,USA,2024-04-14
+C012,Leo,Jackson,leo.jackson@email.com,555-0112,Jacksonville,FL,USA,2024-08-09
+C013,Mona,White,mona.white@email.com,555-0113,Fort Worth,TX,USA,2024-05-30
+C014,Nathan,Harris,,555-0114,Columbus,OH,USA,2024-09-01
+C015,Olivia,Martin,olivia.martin@email.com,,Denver,CO,USA,2024-06-17
+C016,Paul,Garcia,paul.garcia@email.com,555-0116,Seattle,WA,USA,2024-10-05
+C017,Quinn,Martinez,quinn.martinez@email.com,555-0117,Washington,DC,USA,2024-07-11
+C018,Rachel,Robinson,rachel.robinson@email.com,555-0118,Nashville,TN,USA,2024-11-20
+C019,Sam,Clark,sam.clark@email.com,555-0119,Oklahoma City,OK,USA,2024-08-25
+C020,Tina,Lewis,tina.lewis@email.com,555-0120,Las Vegas,NV,USA,2024-12-01
+C001,Alice,Johnson,alice.johnson@email.com,555-0101,New York,NY,USA,2024-01-15
+C003,Carol,Williams,carol.williams@email.com,555-0103,Chicago,IL,USA,2024-03-10
+

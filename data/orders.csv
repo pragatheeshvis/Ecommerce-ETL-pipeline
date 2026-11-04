@@ -1,0 +1,43 @@
+order_id,customer_id,order_date,shipping_address,order_status,payment_method
+O001,C001,2024-03-01,123 Main St New York NY,Delivered,Credit Card
+O002,C002,2024-03-05,456 Oak Ave Los Angeles CA,Delivered,PayPal
+O003,C003,2024-03-10,789 Pine Rd Chicago IL,Delivered,Credit Card
+O004,C004,2024-03-15,321 Elm St Houston TX,Shipped,Debit Card
+O005,C005,2024-04-01,654 Maple Dr Phoenix AZ,Delivered,Credit Card
+O006,C001,2024-04-10,123 Main St New York NY,Delivered,Credit Card
+O007,C006,2024-04-15,987 Cedar Ln Philadelphia PA,Delivered,PayPal
+O008,C007,2024-04-20,147 Birch Blvd San Antonio TX,Cancelled,Credit Card
+O009,C002,2024-05-01,456 Oak Ave Los Angeles CA,Delivered,Credit Card
+O010,C008,2024-05-10,258 Walnut St San Diego CA,Delivered,Debit Card
+O011,C003,2024-05-15,789 Pine Rd Chicago IL,Delivered,PayPal
+O012,C009,2024-05-20,369 Spruce Ave Dallas TX,Shipped,Credit Card
+O013,C010,2024-06-01,741 Ash Dr San Jose CA,Delivered,Credit Card
+O014,C004,2024-06-10,321 Elm St Houston TX,Delivered,Debit Card
+O015,C011,2024-06-15,852 Poplar St Austin TX,Delivered,PayPal
+O016,C012,2024-06-20,963 Willow Ln Jacksonville FL,Delivered,Credit Card
+O017,C005,2024-07-01,654 Maple Dr Phoenix AZ,Delivered,Credit Card
+O018,C013,2024-07-10,174 Hickory Rd Fort Worth TX,Delivered,Debit Card
+O019,C001,2024-07-15,123 Main St New York NY,Delivered,Credit Card
+O020,C014,2024-07-20,285 Chestnut Ave Columbus OH,Shipped,PayPal
+O021,C015,2024-08-01,396 Sycamore Dr Denver CO,Delivered,Credit Card
+O022,C002,2024-08-10,456 Oak Ave Los Angeles CA,Delivered,Credit Card
+O023,C016,2024-08-15,507 Redwood Blvd Seattle WA,Delivered,Debit Card
+O024,C017,2024-08-20,618 Cypress St Washington DC,Cancelled,Credit Card
+O025,C003,2024-09-01,789 Pine Rd Chicago IL,Delivered,PayPal
+O026,C018,2024-09-10,729 Magnolia Ave Nashville TN,Delivered,Credit Card
+O027,C019,2024-09-15,840 Dogwood Ln Oklahoma City OK,Delivered,Debit Card
+O028,C010,2024-09-20,741 Ash Dr San Jose CA,Delivered,Credit Card
+O029,C020,2024-10-01,951 Palm Dr Las Vegas NV,Delivered,PayPal
+O030,C004,2024-10-10,321 Elm St Houston TX,Delivered,Credit Card
+O031,C001,2024-10-15,123 Main St New York NY,Delivered,Credit Card
+O032,C006,2024-10-20,987 Cedar Ln Philadelphia PA,Shipped,Debit Card
+O033,C011,2024-11-01,852 Poplar St Austin TX,Delivered,Credit Card
+O034,C002,2024-11-05,456 Oak Ave Los Angeles CA,Delivered,PayPal
+O035,C007,2024-11-10,147 Birch Blvd San Antonio TX,Delivered,Credit Card
+O036,C012,15-11-2024,963 Willow Ln Jacksonville FL,Delivered,Debit Card
+O037,C003,2024-11-20,789 Pine Rd Chicago IL,Delivered,Credit Card
+O038,C008,2024-12-01,258 Walnut St San Diego CA,Delivered,Credit Card
+O039,C013,2024-12-10,174 Hickory Rd Fort Worth TX,Delivered,PayPal
+O040,C005,2024-12-15,654 Maple Dr Phoenix AZ,Delivered,Credit Card
+O001,C001,2024-03-01,123 Main St New York NY,Delivered,Credit Card
+

@@ -1,0 +1,25 @@
+product_id,product_name,category,brand,unit_price,stock_quantity
+P001,Wireless Mouse,Electronics,TechBrand,29.99,500
+P002,USB-C Hub,Electronics,TechBrand,49.99,300
+P003,Mechanical Keyboard,Electronics,KeyMaster,89.99,200
+P004,Running Shoes,Sports,AthletiX,119.99,150
+P005,Yoga Mat,Sports,FitGear,34.99,400
+P006,Protein Powder,Health,NutriMax,54.99,600
+P007,Vitamin D Supplement,Health,NutriMax,19.99,800
+P008,Laptop Stand,Electronics,TechBrand,39.99,250
+P009,Water Bottle,Sports,FitGear,14.99,1000
+P010,Bluetooth Speaker,Electronics,SoundWave,79.99,180
+P011,Desk Lamp,Home,BrightLife,44.99,350
+P012,Coffee Maker,Home,BrewMaster,129.99,120
+P013,Backpack,Travel,TrekPro,64.99,220
+P014,Sunglasses,Fashion,StyleCo,39.99,500
+P015,Fitness Tracker,Electronics,TechBrand,149.99,160
+P016,Notebook Set,Stationery,WriteWell,12.99,900
+P017,Headphones,Electronics,SoundWave,199.99,100
+P018,Camping Tent,Travel,TrekPro,249.99,80
+P019,Face Cream,Beauty,GlowUp,29.99,700
+P020,Hair Dryer,Beauty,GlowUp,59.99,300
+P002,USB-C Hub,Electronics,TechBrand,49.99,300
+P010,Bluetooth Speaker,Electronics,SoundWave,79.99,180
+P021,Mystery Item,Unknown,,-1.00,0
+
